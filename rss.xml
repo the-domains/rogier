@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[rogier]]></title>
         <description><![CDATA[rogier]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 16:43:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 16:50:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://photonkit.com</p>]]></description>
+            <link>https://thegrid.ai/rogier/a93209a8-0317-4b8b-bec1-1ba704eadb02/index.html</link>
+            <guid isPermaLink="false">a93209a8-0317-4b8b-bec1-1ba704eadb02</guid>
+            <pubDate>Mon, 21 Dec 2015 16:49:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First]]></title>
             <description><![CDATA[<article><h1>First</h1><p>Finally, the long awaited grid.io beta account. Just in time for christmas, feels like a nice little present. Let's see how this all turns out.</p></article>]]></description>
-            <link>undefinedfirst/index.html</link>
+            <link>https://thegrid.ai/rogier/first/index.html</link>
             <guid isPermaLink="false">d129fc18-ae55-4490-bd0f-82794e799c97</guid>
             <pubDate>Mon, 21 Dec 2015 16:43:31 GMT</pubDate>
         </item>
