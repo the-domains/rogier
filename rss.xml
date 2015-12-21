@@ -4,8 +4,15 @@
         <description><![CDATA[rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 18:10:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[konfirm/kontext]]></title>
+            <description><![CDATA[<article><h1>konfirm/kontext</h1><p>kontext - Simple two-way binding library, without `eval` and `new Function`</p><img src="https://avatars2.githubusercontent.com/u/1856838?v=3&s=400"></article>]]></description>
+            <link>https://github.com/konfirm/kontext</link>
+            <guid isPermaLink="false">b8c90422-18f3-4a15-85d8-802fb15d1f6b</guid>
+            <pubDate>Mon, 21 Dec 2015 18:10:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Use Blue-Green Deployments to Release Software Safely | DigitalOcean]]></title>
             <description><![CDATA[<article><h1>How To Use Blue-Green Deployments to Release Software Safely | DigitalOcean</h1><p>We hope you find this tutorial helpful. In addition to guides like this one, we provide simple cloud infrastructure for developers. Learn more → Modern development practices often distinguish between deploying and releasing software. Deployment is the step that involves getting the new code onto the servers.</p><img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/f8268aec-8560-48b0-99e4-2bdbc80b03ba.png?1450203090"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[devour]]></title>
-            <description><![CDATA[<article><h1>devour</h1><p>Wrapper for gulp projects to provide a lot of syntactic sugar and re-use Wrapper for gulp projects to provide a lot of syntactic sugar and re-use Devour provides a thin wrapper for gulp, enabling the use of tasks and pipes defined in separate files.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdb83fb2955d61d273bc313e507494417e05949e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>devour</h1><p>Wrapper for gulp projects to provide a lot of syntactic sugar and re-use Wrapper for gulp projects to provide a lot of syntactic sugar and re-use Devour provides a thin wrapper for gulp, enabling the use of tasks and pipes defined in separate files.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8edf4bec336d59056bef71492d9c6a35cb0caedd.png"></article>]]></description>
             <link>https://www.npmjs.com/package/devour</link>
             <guid isPermaLink="false">e84fdcdf-2af7-4ac6-b43f-4311c8e1db07</guid>
             <pubDate>Mon, 21 Dec 2015 17:49:42 GMT</pubDate>
