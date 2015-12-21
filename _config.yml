@@ -1,7 +1,7 @@
 name: rogier
 favicon: null
-layout_spectrum: 0.22888722317293286
-typography_spectrum: 0.3783181665930897
+layout_spectrum: 0.49673
+typography_spectrum: 0.34899
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#333333'
+    - '#1c9fd4'
+    - '#085892'
+    - '#28c8fa'
     - '#f2f2f2'
-    - '#08def7'
-    - '#62c300'
-    - '#0071bc'
+    - '#333333'
   brandStrength: 1
   lightness: 0.5625
   saturation: 0.6875
