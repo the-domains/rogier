@@ -4,8 +4,15 @@
         <description><![CDATA[rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 17:50:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Use Blue-Green Deployments to Release Software Safely | DigitalOcean]]></title>
+            <description><![CDATA[<article><h1>How To Use Blue-Green Deployments to Release Software Safely | DigitalOcean</h1><p>We hope you find this tutorial helpful. In addition to guides like this one, we provide simple cloud infrastructure for developers. Learn more → Modern development practices often distinguish between deploying and releasing software. Deployment is the step that involves getting the new code onto the servers.</p><img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/f8268aec-8560-48b0-99e4-2bdbc80b03ba.png?1450203090"></article>]]></description>
+            <link>https://www.digitalocean.com/community/tutorials/how-to-use-blue-green-deployments-to-release-software-safely</link>
+            <guid isPermaLink="false">9a3b8615-185a-4251-a62f-9228157ebf90</guid>
+            <pubDate>Mon, 21 Dec 2015 17:50:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[devour]]></title>
             <description><![CDATA[<article><h1>devour</h1><p>Wrapper for gulp projects to provide a lot of syntactic sugar and re-use Wrapper for gulp projects to provide a lot of syntactic sugar and re-use Devour provides a thin wrapper for gulp, enabling the use of tasks and pipes defined in separate files.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdb83fb2955d61d273bc313e507494417e05949e.png"></article>]]></description>
