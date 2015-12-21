@@ -1,7 +1,7 @@
 name: rogier
 favicon: null
-layout_spectrum: 0.49673
-typography_spectrum: 0.34899
+layout_spectrum: 0.63771
+typography_spectrum: 0.392
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#28c8fa'
     - '#f2f2f2'
     - '#333333'
-  brandStrength: 1
+  brandStrength: 0.3125
   lightness: 0.5625
   saturation: 0.6875
   rhythmicContrast: 0.75
