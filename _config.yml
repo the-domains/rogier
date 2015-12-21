@@ -1,0 +1,28 @@
+name: rogier
+favicon: null
+layout_spectrum: 0.22888722317293286
+typography_spectrum: 0.3783181665930897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9435958110261708
+  lightness: 0.2936943683307618
+  saturation: 0.7857917735818774
+  rhythmicContrast: 0.6738142515532672
+purpose: []
