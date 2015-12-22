@@ -4,14 +4,14 @@
         <description><![CDATA[rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 18:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 11:20:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[konfirm/kontext]]></title>
             <description><![CDATA[<article><h1>konfirm/kontext</h1><p>kontext - Simple two-way binding library, without `eval` and `new Function`</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d420dc35602b2db80403bf800a85aaf1b7933ac.jpg"></article>]]></description>
             <link>https://github.com/konfirm/kontext</link>
             <guid isPermaLink="false">b8c90422-18f3-4a15-85d8-802fb15d1f6b</guid>
-            <pubDate>Mon, 21 Dec 2015 18:10:34 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 11:20:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Use Blue-Green Deployments to Release Software Safely | DigitalOcean]]></title>
