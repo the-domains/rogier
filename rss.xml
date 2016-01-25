@@ -4,11 +4,18 @@
         <description><![CDATA[rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 11:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 10:25:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Tobias Ahlin]]></title>
+            <description><![CDATA[<article><h1>Tobias Ahlin</h1><p>CSS animations and transitions are great for animating something from point A to B. That is, if you want to animate along a straight path. No matter how much you bend your bezier curves, you can't make something move along a curved path by applying an animation or a transition to an object.</p></article>]]></description>
+            <link>http://tobiasahlin.com/blog/curved-path-animations-in-css/</link>
+            <guid isPermaLink="false">c73230d3-c795-4d1d-967b-a252529db5c1</guid>
+            <pubDate>Mon, 25 Jan 2016 10:25:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[konfirm/kontext]]></title>
-            <description><![CDATA[<article><h1>konfirm/kontext</h1><p>kontext - Simple two-way binding library, without `eval` and `new Function`</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d420dc35602b2db80403bf800a85aaf1b7933ac.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>konfirm/kontext</h1><p>kontext - Simple two-way binding library, without `eval` and `new Function`</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c010c78324c7734a8c11f80f37d22475576f72d0.jpg"></article>]]></description>
             <link>https://github.com/konfirm/kontext</link>
             <guid isPermaLink="false">b8c90422-18f3-4a15-85d8-802fb15d1f6b</guid>
             <pubDate>Tue, 22 Dec 2015 11:20:12 GMT</pubDate>
