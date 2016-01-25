@@ -4,11 +4,18 @@
         <description><![CDATA[rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 10:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 10:25:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to Learn ES6 - JavaScript Scene]]></title>
+            <description><![CDATA[<article><h1>How to Learn ES6 - JavaScript Scene</h1><p>We ran a survey at about the time the standard became official in June 2015 to see how many people were using ES6. Nearl...</p><img src="https://cdn-images-1.medium.com/max/2000/1*IJ_oA43WTCoDHoeBmw_oYw.png"></article>]]></description>
+            <link>https://thegrid.ai/rogier/how-to-learn-es6-javascript-scene/index.html</link>
+            <guid isPermaLink="false">ac59ef48-db35-418f-8f66-2401d1d89b8e</guid>
+            <pubDate>Mon, 25 Jan 2016 10:25:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CMS.js - Javascript CMS]]></title>
-            <description><![CDATA[<article><h1>CMS.js - Javascript CMS</h1><p>CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting (no Node.js, PHP, Ruby, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cf500b6483a3dbe3b8256ce4eb4e18d48566c2b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>CMS.js - Javascript CMS</h1><p>CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting (no Node.js, PHP, Ruby, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9965c426b3f3ae25a60d4647398b30edd9a79bc4.png"></article>]]></description>
             <link>http://cdmedia.github.io/cms.js/</link>
             <guid isPermaLink="false">74ffa98e-6792-47f1-a8dc-a0743f5ccab7</guid>
             <pubDate>Mon, 25 Jan 2016 10:25:42 GMT</pubDate>
