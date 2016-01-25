@@ -4,8 +4,15 @@
         <description><![CDATA[rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 10:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 10:25:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CMS.js - Javascript CMS]]></title>
+            <description><![CDATA[<article><h1>CMS.js - Javascript CMS</h1><p>CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website. It takes your content, renders Markdown and delivers a complete website in Single-Page App fashion...without the aid of server-side scripting (no Node.js, PHP, Ruby, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cf500b6483a3dbe3b8256ce4eb4e18d48566c2b.png"></article>]]></description>
+            <link>http://cdmedia.github.io/cms.js/</link>
+            <guid isPermaLink="false">74ffa98e-6792-47f1-a8dc-a0743f5ccab7</guid>
+            <pubDate>Mon, 25 Jan 2016 10:25:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tobias Ahlin]]></title>
             <description><![CDATA[<article><h1>Tobias Ahlin</h1><p>CSS animations and transitions are great for animating something from point A to B. That is, if you want to animate along a straight path. No matter how much you bend your bezier curves, you can't make something move along a curved path by applying an animation or a transition to an object.</p></article>]]></description>
