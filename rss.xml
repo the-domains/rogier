@@ -4,8 +4,15 @@
         <description><![CDATA[rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 10:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 10:26:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Optimising SVGs for Web Use - Part 2½ - By Larsenwork]]></title>
+            <description><![CDATA[<article><h1>Optimising SVGs for Web Use - Part 2½ - By Larsenwork</h1><p>Cubic vs Quadratic Let's switch to quadratic in FontForge and see what happens We have the "Fore" layer with a "C" for cubic on the left and "Quad" with a "Q" on the right. Notice how all quad curves share the handle - that is four less points (five when we also remove the last dot) It is worth noting that drawing using quadratic beziers isn't always better.</p><img src="https://cdn-images-1.medium.com/max/800/1*hrEwZMwXlCWnVNUqUIrROw.png"></article>]]></description>
+            <link>https://thegrid.ai/rogier/optimising-svgs-for-web-use-part-2-by-larsenwork/index.html</link>
+            <guid isPermaLink="false">d8625693-4595-4a9c-85a5-26a32035a479</guid>
+            <pubDate>Mon, 25 Jan 2016 10:26:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Learn ES6 - JavaScript Scene]]></title>
             <description><![CDATA[<article><h1>How to Learn ES6 - JavaScript Scene</h1><p>We ran a survey at about the time the standard became official in June 2015 to see how many people were using ES6. Nearl...</p><img src="https://cdn-images-1.medium.com/max/2000/1*IJ_oA43WTCoDHoeBmw_oYw.png"></article>]]></description>
