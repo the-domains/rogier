@@ -4,8 +4,15 @@
         <description><![CDATA[Rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 10:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 10:15:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Styling Broken Images]]></title>
+            <description><![CDATA[<article><h1>Styling Broken Images</h1><p>Broken images are ugly. But they don't always have to be. We can use CSS to apply styles to the element to provide a better experience than the default. To understand how we can style broken images, there are two facts about the way the element behaves that we need to understand first.</p></article>]]></description>
+            <link>http://bitsofco.de/styling-broken-images/</link>
+            <guid isPermaLink="false">0da99e59-cbac-401e-ab8b-773c11bc83cc</guid>
+            <pubDate>Sun, 10 Apr 2016 10:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Signing commits using GPG - User Documentation]]></title>
             <description><![CDATA[<article><h1>Signing commits using GPG - User Documentation</h1><p>Once you've set up your GPG key and associated it with your GitHub account and Git, you can sign commits. Your commits will show as verified within a pull request on GitHub. ...</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.digitalocean.com/community/tutorials/how-to-use-blue-green-deployments-to-release-software-safely</link>
             <guid isPermaLink="false">9a3b8615-185a-4251-a62f-9228157ebf90</guid>
             <pubDate>Mon, 21 Dec 2015 17:50:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First]]></title>
-            <description><![CDATA[<article><h1>First</h1><p>Finally, the long awaited grid.io beta account. Just in time for christmas, feels like a nice little present. Let's see how this all turns out.</p></article>]]></description>
-            <link>https://thegrid.ai/rogier/first/index.html</link>
-            <guid isPermaLink="false">d129fc18-ae55-4490-bd0f-82794e799c97</guid>
-            <pubDate>Mon, 21 Dec 2015 16:43:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
