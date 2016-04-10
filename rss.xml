@@ -4,8 +4,15 @@
         <description><![CDATA[Rogier]]></description>
         <link>https://thegrid.ai/rogier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 10:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 10:15:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Signing commits using GPG - User Documentation]]></title>
+            <description><![CDATA[<article><h1>Signing commits using GPG - User Documentation</h1><p>Once you've set up your GPG key and associated it with your GitHub account and Git, you can sign commits. Your commits will show as verified within a pull request on GitHub. ...</p></article>]]></description>
+            <link>https://help.github.com/articles/signing-commits-using-gpg/</link>
+            <guid isPermaLink="false">9a21db70-a22f-46c7-be28-810431c31c74</guid>
+            <pubDate>Sun, 10 Apr 2016 10:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Year Without jQuery]]></title>
             <description><![CDATA[<article><h1>A Year Without jQuery</h1><p>Dropping the trusted workhorse from our front-end back in 2014 has led to a faster, leaner platform</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/683ca3d38cebf14ab4ced205cbf7d676de229c7b.png"></article>]]></description>
